@@ -1,2 +1,2 @@
 # Module 2 Assignment
-* [Solution](https://github.com/faranak-tk/coursera-html-css-js/tree/main/module2-solution)
+* [Solution](https://faranak-tk.github.io/coursera-html-css-js/module2-solution/)
