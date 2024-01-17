@@ -1,0 +1,109 @@
+body{
+    background-color: white;
+    /*color:black;*/
+    font-family: Helvetica;
+
+}
+/*header*/
+#header-nav{
+    background-color: #999999;
+    border-radius: 0;
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+}
+.navbar-brand{
+    vertical-align: middle;
+}
+.navbar-brand h1{
+    color: black;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+.navbar-header{
+    background-color: #999999;
+}
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list li{
+    background-color: white;
+    border:1px solid black;
+}
+#nav-list a{
+    color:black;
+}
+#nav-list a:hover{
+    background-color: #c0c0c0;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 2px solid black;
+}
+#main-content{
+    width:92%;
+}
+h2{
+    font-size:1.6em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.content{
+    margin-bottom: 40px;
+}
+#chicken-section{
+    width:100%;
+    background-color: #999999;
+    padding:1px 10px 10px 10px;
+}
+a.back{
+    color:maroon;
+    text-decoration: underline;
+}
+
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    
+}
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+    #collapsable-nav{
+        background-color: white;
+    }
+    #collapsable-nav li:nth-child(1){
+        border-top:none;
+        border-bottom:none;
+    }
+    #collapsable-nav li:nth-child(2){
+        border-bottom:none;
+    }
+    #nav-list{
+        margin-top: 0;
+    }
+    #header-nav{
+       border-bottom:none;
+    }
+    .navbar-header{
+        border-bottom: 1px solid black;
+    }
+}
