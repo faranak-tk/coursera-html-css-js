@@ -4,3 +4,6 @@
 # Module 3 Assignment
 * [Solution](https://faranak-tk.github.io/coursera-html-css-js/module3-solution/)
 * [Solution-optional](https://faranak-tk.github.io/coursera-html-css-js/module3-solution-optional/)
+
+# Module 4 Assignment
+* [Solution](https://faranak-tk.github.io/coursera-html-css-js/module4-solution/)
