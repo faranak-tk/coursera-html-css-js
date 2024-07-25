@@ -1,6 +1,6 @@
-Course Name: HTML, CSS, and Javascript for Web Developers - Johns Hopkins University - Coursera 
-Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers
-Assignments: https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
+# Course Name: HTML, CSS, and Javascript for Web Developers - Johns Hopkins University - Coursera 
+# Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers
+# Assignments: https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
 
 # Module 2 Assignment
 * [Solution](https://faranak-tk.github.io/coursera-html-css-js/module2-solution/)
