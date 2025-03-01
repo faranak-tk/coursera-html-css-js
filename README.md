@@ -4,15 +4,15 @@
 
 # Module 1: Quiz!
 
-# Module 2 Assignment
+# Module 2: My Assignment
 * [Solution](https://faranak-tk.github.io/coursera-html-css-js/module2-solution/)
 
-# Module 3 Assignment
+# Module 3: My Assignment
 * [Solution](https://faranak-tk.github.io/coursera-html-css-js/module3-solution/)
 * [Solution-optional](https://faranak-tk.github.io/coursera-html-css-js/module3-solution-optional/)
 
-# Module 4 Assignment
+# Module 4: My Assignment
 * [Solution](https://faranak-tk.github.io/coursera-html-css-js/module4-solution/)
 
-# Module 5 Assignment
+# Module 5: My Assignment
 * [Solution](https://faranak-tk.github.io/coursera-html-css-js/module5-solution/)
