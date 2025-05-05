@@ -16,3 +16,4 @@
 
 # Module 5: My Assignment
 * [Solution](https://faranak-tk.github.io/coursera-html-css-js/module5-solution/)
+# Certificate: https://coursera.org/share/90b1b6ddc74815e816765f2f1df8b927
